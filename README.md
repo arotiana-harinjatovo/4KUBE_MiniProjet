@@ -1,4 +1,4 @@
 # 4KUBE_MiniProjet
-## 4KUBE - Maîtriser les infrastructures Cloud-Native avec Kubernetes
+## Maîtriser les infrastructures Cloud-Native avec Kubernetes
 
 
