@@ -10,8 +10,8 @@
 **Introduction**
 Dans un cluster Kubernetes, nous allons avoir deux catégories de noeuds (VM). 
 
-Noeud Master : pour le plan management
-Noeuds Worker : pour le plan assitance et le management des ressources
+Noeud Master : pour le plan management.
+Noeuds Worker : pour le plan assitance et le management des ressources.
 
 ## Configuration d'un cluster sur Ubuntu
 ### 1. Machines Virtelles (VM) sur VMWare
